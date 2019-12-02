@@ -1,0 +1,16 @@
+PODS:
+  - flutter-lib (0.1.0)
+
+DEPENDENCIES:
+  - flutter-lib (from `../flutter-lib`)
+
+EXTERNAL SOURCES:
+  flutter-lib:
+    :path: "../flutter-lib"
+
+SPEC CHECKSUMS:
+  flutter-lib: 56a412c609f51521b3e617f6040da15390527d3c
+
+PODFILE CHECKSUM: 539fb516851957765ef7b281442c6dadf8ae43c5
+
+COCOAPODS: 1.8.4

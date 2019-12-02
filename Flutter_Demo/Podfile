@@ -1,0 +1,8 @@
+platform :ios, '9.0'
+use_frameworks!
+
+target 'Flutter_Demo' do
+
+  pod 'flutter-lib', :path => '../flutter-lib'
+  
+end

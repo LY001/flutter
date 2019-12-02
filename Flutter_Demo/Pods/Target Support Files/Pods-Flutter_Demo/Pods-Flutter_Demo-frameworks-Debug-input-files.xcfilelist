@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-Flutter_Demo/Pods-Flutter_Demo-frameworks.sh
+${PODS_ROOT}/../../flutter-lib/ios_frameworks/flutter_boost.framework
+${PODS_ROOT}/../../flutter-lib/ios_frameworks/Flutter.framework
+${PODS_ROOT}/../../flutter-lib/ios_frameworks/App.framework
+${PODS_ROOT}/../../flutter-lib/ios_frameworks/FlutterPluginRegistrant.framework

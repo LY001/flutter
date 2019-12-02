@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'flutter-lib_Example' do
+  pod 'flutter-lib', :path => '../'
+
+  target 'flutter-lib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
